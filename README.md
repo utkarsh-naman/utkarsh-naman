@@ -1,0 +1,16 @@
+# info
+>I am **Utkarsh Naman**, **18**  years young boy interested in coding.</br>
+
+I am learning android apk development using **Java** and have created 6 mobile android applications
+**_Java_** and **_Python_**.
+
+### Python apps by me
+1. [MATEX](https://drive.google.com/drive/folders/13NEsclz1rMhXaleFpfHcjPhmgV5ac7Gf)
+2. [Direct Text](https://drive.google.com/drive/folders/1-kQjcZJfmqY8Q8QGzUdbX8ph_C3ea7nB)
+3. [Ortho](https://drive.google.com/drive/folders/12m3mgYfODRpROyyf9B4R1-yDE-hIxU9y)
+
+### Java apps by me
+1. [DirectText](https://drive.google.com/drive/folders/1-oCrP3nQIvfbqmSadyJDxjq5DtjgSkQT)
+> has more features and less space consuming.
+2. [IsItLeap](https://drive.google.com/drive/folders/1-IoM8Nz-Nd1zcRBXX-8jPVkqtbqcxC2T)
+3. [Prime](https://drive.google.com/drive/folders/1-w84wwoWNOZ62Ac-SMGy6Ybq4s5O6zSq)
