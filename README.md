@@ -1,5 +1,5 @@
 # info
->I am **Utkarsh Naman**, **18**  years young boy interested in coding.</br>
+>I am **Utkarsh Naman**, **18**  years young boy learning coding and stuff.</br>
 
 I am learning android apk development using **Java** and have created 6 mobile android applications
 **_Java_** and **_Python_**.
