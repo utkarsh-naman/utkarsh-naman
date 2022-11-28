@@ -2,7 +2,7 @@
 >I am **Utkarsh Naman**, **18**  years young boy learning coding and stuff.</br>
 
 I am learning android app development using **Java** and have created 6 mobile android applications
-**_Java_** and **_Python_**.
+using **_Java_** and **_Python_**.
 
 ### Python apps by me
 1. [MATEX](https://drive.google.com/drive/folders/13NEsclz1rMhXaleFpfHcjPhmgV5ac7Gf)
