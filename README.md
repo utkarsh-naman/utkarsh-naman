@@ -11,6 +11,6 @@ using **_Java_** and **_Python_**.
 
 ### Java apps by me
 1. [DirectText](https://drive.google.com/drive/folders/1-oCrP3nQIvfbqmSadyJDxjq5DtjgSkQT)
-> has more features and less space consuming.
+> has more features and is less space consuming.
 2. [IsItLeap](https://drive.google.com/drive/folders/1-IoM8Nz-Nd1zcRBXX-8jPVkqtbqcxC2T)
 3. [Prime](https://drive.google.com/drive/folders/1-w84wwoWNOZ62Ac-SMGy6Ybq4s5O6zSq)
