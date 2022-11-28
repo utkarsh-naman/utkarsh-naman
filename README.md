@@ -1,7 +1,7 @@
 # info
 >I am **Utkarsh Naman**, **18**  years young boy learning coding and stuff.</br>
 
-I am learning android apk development using **Java** and have created 6 mobile android applications
+I am learning android app development using **Java** and have created 6 mobile android applications
 **_Java_** and **_Python_**.
 
 ### Python apps by me
