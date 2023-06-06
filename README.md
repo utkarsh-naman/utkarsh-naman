@@ -37,13 +37,13 @@ Utkarsh Naman here.<br>I am currently working on building libraries and packages
 
 
 
-[![MATEX](https://img.shields.io/badge/-Matex-330099?logo=python&logoColor=white)](https://drive.google.com/drive/folders/13NEsclz1rMhXaleFpfHcjPhmgV5ac7Gf) [![Direct Text](https://img.shields.io/badge/-DirectText-BOFC38?logo=python&logoColor=black)](https://drive.google.com/drive/folders/1-kQjcZJfmqY8Q8QGzUdbX8ph_C3ea7nB) [![Ortho](https://img.shields.io/badge/-Ortho-ED2939?logo=python&logoColor=white)](https://drive.google.com/drive/folders/12m3mgYfODRpROyyf9B4R1-yDE-hIxU9y) [![SIMple](https://img.shields.io/badge/-SIMple-BOFC38?logo=python&logoColor=white)](https://drive.google.com/drive/folders/12tv2lAdBDZDfjFCZ9PlZ3Dotbe5-f0Ri)
+[![MATEX](https://img.shields.io/badge/-Matex-171717?logo=android&logoColor=a4c639)](https://drive.google.com/drive/folders/13NEsclz1rMhXaleFpfHcjPhmgV5ac7Gf) [![Direct Text](https://img.shields.io/badge/-DirectText-171717?logo=android&logoColor=a4c639)](https://drive.google.com/drive/folders/1-kQjcZJfmqY8Q8QGzUdbX8ph_C3ea7nB) [![Ortho](https://img.shields.io/badge/-Ortho-171717?logo=android&logoColor=a4c639)](https://drive.google.com/drive/folders/12m3mgYfODRpROyyf9B4R1-yDE-hIxU9y) [![SIMple](https://img.shields.io/badge/-SIMple-171717?logo=android&logoColor=a4c639)](https://drive.google.com/drive/folders/12tv2lAdBDZDfjFCZ9PlZ3Dotbe5-f0Ri)
 
 
 
 
 ### Java apps by me
-1. [![DirectText](https://img.shields.io/badge/-DirectText-BOFC38?logo=java&logoColor=white)](https://drive.google.com/drive/folders/1-oCrP3nQIvfbqmSadyJDxjq5DtjgSkQT)
+[![DirectText](https://img.shields.io/badge/-DirectText-171717?logo=android&logoColor=a4c639)](https://drive.google.com/drive/folders/1-oCrP3nQIvfbqmSadyJDxjq5DtjgSkQT) [![IsItLeap](https://img.shields.io/badge/-IsItLeap-171717?logo=android&logoColor=a4c639)](https://drive.google.com/drive/folders/1-IoM8Nz-Nd1zcRBXX-8jPVkqtbqcxC2T) [![Prime](https://img.shields.io/badge/-Prime-171717?logo=android&logoColor=a4c639)](https://drive.google.com/drive/folders/1-w84wwoWNOZ62Ac-SMGy6Ybq4s5O6zSq)
 > has more features and is less space consuming.
-2. [![IsItLeap](https://img.shields.io/badge/-IsItLeap-BOFC38?logo=javalogoColor=white)](https://drive.google.com/drive/folders/1-IoM8Nz-Nd1zcRBXX-8jPVkqtbqcxC2T)
-3. [![Prime](https://img.shields.io/badge/-Prime-1AA7EC?logo=java&logoColor=white)](https://drive.google.com/drive/folders/1-w84wwoWNOZ62Ac-SMGy6Ybq4s5O6zSq)
+
+
