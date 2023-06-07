@@ -5,6 +5,7 @@
 UtNam (on PyPI).<br>I am currently working on building libraries and packages for java and python<br>I'm also into android app development and built 7+ apps<br><br>Problem solving has my keen interest.
 
 #  📦 Python Packages by me
+[![utnamtte](https://img.shields.io/badge/utnamtte-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://pypi.org/project/utnamtte/)
 
 ### Python apps by me
 
