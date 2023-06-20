@@ -6,6 +6,7 @@ UtNam (on PyPI).<br>I am currently working on building libraries and packages fo
 
 #  📦 Python Packages by me
 [![utnamtte](https://img.shields.io/badge/utnamtte-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://pypi.org/project/utnamtte/)
+[![utnamgeo](https://img.shields.io/badge/utnamgeo-86DC3D?style=for-the-badge&logo=python&logoColor=26580f)](https://pypi.org/project/utnamgeo/)
 
 ### Python apps by me
 
