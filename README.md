@@ -40,7 +40,6 @@ UtNam (on PyPI).<br>I am currently working on building libraries and packages fo
 
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=utkarsh-naman&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-naman&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-naman&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
