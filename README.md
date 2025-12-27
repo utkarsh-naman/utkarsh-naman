@@ -162,7 +162,7 @@
 
 
   <tr>
-    <td width="15%" align="center">
+    <td width="15%" align="center" >
       <img src="https://github.com/user-attachments/assets/6b2c99ed-a8cf-446c-bd42-b8eaca1ffba2" width="100%">
     </td>
     <td width="15%" align="center">
@@ -199,21 +199,46 @@
 
 
 # Applications by me
-### Python apps by me
 
+<table>
+  <tr>
+    <td width="20%" align="center">
+      <img alt="directtext" src="https://github.com/user-attachments/assets/85203d49-fb03-4167-b5fd-1748e2b6d92a" width="100%">
+    </td>
+    <td width="20%" align="center">
+      <img alt="whatssave" src="https://github.com/user-attachments/assets/3fc73080-b014-4aa4-ab5f-49850da98115" width="100%">
+    </td>
+    <td width="20%" align="center">
+      <img alt="Matex" src="https://github.com/user-attachments/assets/a4a49e1e-bcc0-4450-84d8-e04972f9f257" width="100%">
+    </td>
+    <td width="20%" align="center">
+      <img alt="TNMart" src="https://github.com/user-attachments/assets/aa0efa38-090d-4274-9ecc-8cd2d80662ed" width="100%">
+    </td>
+  </tr>
 
-[![MATEX](https://img.shields.io/badge/-Matex-171717?logo=android&logoColor=a4c639)](https://drive.google.com/drive/folders/13NEsclz1rMhXaleFpfHcjPhmgV5ac7Gf) [![Direct Text](https://img.shields.io/badge/-DirectText-171717?logo=android&logoColor=a4c639)](https://drive.google.com/drive/folders/1-kQjcZJfmqY8Q8QGzUdbX8ph_C3ea7nB) [![Ortho](https://img.shields.io/badge/-Ortho-171717?logo=android&logoColor=a4c639)](https://drive.google.com/drive/folders/12m3mgYfODRpROyyf9B4R1-yDE-hIxU9y) [![SIMple](https://img.shields.io/badge/-SIMple-171717?logo=android&logoColor=a4c639)](https://drive.google.com/drive/folders/12tv2lAdBDZDfjFCZ9PlZ3Dotbe5-f0Ri)
-
-
-
-
-### Java apps by me
-[![DirectText](https://img.shields.io/badge/-DirectText-171717?logo=android&logoColor=a4c639)](https://drive.google.com/drive/folders/1-oCrP3nQIvfbqmSadyJDxjq5DtjgSkQT) [![IsItLeap](https://img.shields.io/badge/-IsItLeap-171717?logo=android&logoColor=a4c639)](https://drive.google.com/drive/folders/1-IoM8Nz-Nd1zcRBXX-8jPVkqtbqcxC2T) [![Prime](https://img.shields.io/badge/-Prime-171717?logo=android&logoColor=a4c639)](https://drive.google.com/drive/folders/1-w84wwoWNOZ62Ac-SMGy6Ybq4s5O6zSq)
-> has more features and is less space consuming.
-
-
-
-
+  <tr>
+    <td width="20%" align="center" >
+      <a href="YOUR_DOWNLOAD_LINK" style="color: white; text-decoration: none; font-weight: bold;">
+        Download DirecText
+      </a>
+    </td>
+    <td width="20%" align="center">
+        <a href="YOUR_DOWNLOAD_LINK" style="color: white; text-decoration: none; font-weight: bold;">
+        Download Whatssave
+      </a>
+    </td>
+    <td width="20%" align="center">
+        <a href="YOUR_DOWNLOAD_LINK" style="color: white; text-decoration: none; font-weight: bold;">
+        Download Matex
+      </a>
+    </td>
+    <td width="20%" align="center">
+      <a href="YOUR_DOWNLOAD_LINK" style="color: white; text-decoration: none; font-weight: bold;">
+        Project under NDA
+      </a>
+    </td>   
+  </tr>
+</table>
 
 
 
@@ -325,4 +350,11 @@
 
   
 </table>
+
+
+
+# [Patreon](https://www.patreon.com/c/utnam)
+<img width="100%"  alt="patreon banner perfect-01" src="https://github.com/user-attachments/assets/02ad0709-2cc3-4217-9337-a77386e6904b" />
+
+
 
