@@ -1,6 +1,5 @@
 
 
-
 <img width="100%"  alt="banner-image" src="https://github.com/user-attachments/assets/288863e2-9363-4027-910f-3d72f5f024f0" />
 
 >I am **Utkarsh Naman**, **21**  , Computer Science student building stuff.</br>
@@ -45,7 +44,7 @@
 
 
 <table>
-  <tr>
+  <!-- <tr>
     <td width="15%" align="center">
       <ul>Name</ul>
     </td>
@@ -55,7 +54,7 @@
     <td width="70%" align="center" >
       <ul>Details</ul>
     </td>
-  </tr>
+  </tr> -->
 
   <tr>
     <td width="15%" align="center">
@@ -89,6 +88,8 @@
       </ul>
     </td>
   </tr>
+
+
   
   <tr>
     <td width="15%" align="center">
@@ -106,6 +107,25 @@
     </td>
   </tr>
 
+
+  
+  <tr>
+    <td width="15%" align="center">
+      <img src="https://github.com/user-attachments/assets/4b19b08e-b253-49dd-ae56-2c016347f996" width="100%">
+    </td>
+    <td width="15%" align="center">
+      <img src="https://github.com/user-attachments/assets/7e491b0a-ff99-4aed-84d4-d41c61fc1270" width="100%">
+    </td>
+    <td width="70%" valign="top">
+      <ul>
+        <ul>utnamtte</ul>
+        <li>Text based math expression to python code convertor</li>
+        <li><a href="https://github.com/utkarsh-naman/utnampython/releases/tag/utnampython3119](https://pypi.org/project/utnamtte/">Release</a></li>
+      </ul>
+    </td>
+  </tr>
+
+
   <tr>
     <td width="15%" align="center">
       <img src="https://github.com/user-attachments/assets/392f27be-d326-4722-a420-2b3e84f1c360" width="100%">
@@ -115,7 +135,7 @@
     </td>
     <td width="70%" valign="top">
       <ul>
-        <ul>Unc</ul>
+        <ul>Nephew</ul>
         <li>Chess Game Engine</li>
         <li><a href="https://github.com/utkarsh-naman/utnampython/releases/tag/utnampython3119">Release</a></li>
       </ul>
@@ -133,12 +153,32 @@
     </td>
     <td width="70%" valign="top">
       <ul>
-        <ul>Unc</ul>
+        <ul>Ruby</ul>
         <li>Rubik's Cube Solver Engine</li>
         <li><a href="https://github.com/utkarsh-naman/utnampython/releases/tag/utnampython3119">Release</a></li>
       </ul>
     </td>
   </tr>
+
+
+  <tr>
+    <td width="15%" align="center">
+      <img src="https://github.com/user-attachments/assets/6b2c99ed-a8cf-446c-bd42-b8eaca1ffba2" width="100%">
+    </td>
+    <td width="15%" align="center">
+      <img src="https://github.com/user-attachments/assets/b20c629d-d6f9-4c4d-ae12-354041b93764" width="100%">
+    </td>
+    <td width="70%" valign="top">
+      <ul>
+        <ul>WhatsSave</ul>
+        <li>WhatsApp status Saver</li>
+        <li><a href="https://github.com/utkarsh-naman/utnampython/releases/tag/utnampython3119">Release</a></li>
+      </ul>
+    </td>
+  </tr>
+
+  
+  
 </table>
 
 
@@ -172,29 +212,10 @@
 > has more features and is less space consuming.
 
 
-## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://math.stackexchange.com/users/utkarsh.naman) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@trulyutnam) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2b%2b&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
- 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-naman&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-naman&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=utkarsh-naman&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=utkarsh-naman&icon=9&color=5)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/utkarshnaman) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 # Digital Footprints
@@ -290,19 +311,18 @@
 
   <tr>
     <td width="10%" align="center">
-      <img src="https://github.com/user-attachments/assets/2b29032c-f4f1-4c9e-9a01-601e8b5fdcf3" width="100%">
+      <img src="https://github.com/user-attachments/assets/049ce038-2afa-4dff-8bb8-db56b497df06" width="100%">
     </td>
     <td width="10%" align="center">
       <img alt="buy-me-a-coffee" src="https://github.com/user-attachments/assets/e881beb5-0785-4950-847f-550291c890df" width="100%">
     </td>
     <td width="80%" valign="top">
       <ul>
-        <li>Me on <a href="YouTube">BuyMeACoffee</a></li>
+        <li>You can help me by Donating on <a href="YouTube">BuyMeACoffee</a></li>
       </ul>
     </td>
   </tr>
 
   
 </table>
-
 
