@@ -44,18 +44,6 @@
 
 
 <table>
-  <!-- <tr>
-    <td width="15%" align="center">
-      <ul>Name</ul>
-    </td>
-    <td width="15%" align="center" >
-      <ul>Stack</ul>
-    </td>
-    <td width="70%" align="center" >
-      <ul>Details</ul>
-    </td>
-  </tr> -->
-
   <tr>
     <td width="15%" align="center">
       <img src="https://github.com/user-attachments/assets/4e720ca0-95bc-439e-9116-bd768586a6ab" width="100%">
@@ -65,7 +53,7 @@
     </td>
     <td width="70%" valign="top">
       <ul>
-        <ul>Utnampython</ul>
+        <strong>Utnampython</strong>
         <li>Custom python variant with several algorithm along with text-expression-to-code conversion</li>
         <li><a href="https://github.com/utkarsh-naman/utnampython/releases/tag/utnampython3119">Release</a></li>
       </ul>
@@ -82,9 +70,9 @@
     </td>
     <td width="70%" valign="top">
       <ul>
-        <ul>Unc</ul>
+        <strong>Unc</strong>
         <li>Chopsticks Game Engine</li>
-        <li><a href="https://github.com/utkarsh-naman/utnampython/releases/tag/utnampython3119">Release</a></li>
+        <li><a href="https://github.com/utkarsh-naman/cs_wasm">Go to repo</a></li>
       </ul>
     </td>
   </tr>
@@ -100,9 +88,9 @@
     </td>
     <td width="70%" valign="top">
       <ul>
-        <ul>3T</ul>
+        <strong>3T</strong>
         <li>TIC-TAC-TOE Game Engine</li>
-        <li><a href="https://github.com/utkarsh-naman/utnampython/releases/tag/utnampython3119">Release</a></li>
+        <li><a href="https://github.com/utkarsh-naman/3T">Go to repo</a></li>
       </ul>
     </td>
   </tr>
@@ -118,9 +106,9 @@
     </td>
     <td width="70%" valign="top">
       <ul>
-        <ul>utnamtte</ul>
+        <strong>utnamtte</strong>
         <li>Text based math expression to python code convertor</li>
-        <li><a href="https://github.com/utkarsh-naman/utnampython/releases/tag/utnampython3119](https://pypi.org/project/utnamtte/">Release</a></li>
+        <li><a href="https://pypi.org/project/utnamtte/">Release</a></li>
       </ul>
     </td>
   </tr>
@@ -131,17 +119,16 @@
       <img src="https://github.com/user-attachments/assets/392f27be-d326-4722-a420-2b3e84f1c360" width="100%">
     </td>
     <td width="15%" align="center">
-      <img src="https://github.com/user-attachments/assets/1ac2a994-9621-4a34-964e-14e54245e0b7" width="100%">
+      <img src="https://github.com/user-attachments/assets/b943893b-46bf-4a96-8dc2-1ee797e2e1a5" width="100%">
     </td>
     <td width="70%" valign="top">
       <ul>
-        <ul>Nephew</ul>
+        <strong>Nephew</strong>
         <li>Chess Game Engine</li>
-        <li><a href="https://github.com/utkarsh-naman/utnampython/releases/tag/utnampython3119">Release</a></li>
+        <li><a href="https://github.com/utkarsh-naman/nephew">Go to repo</a></li>
       </ul>
     </td>
   </tr>
-  
   
   
   <tr>
@@ -153,9 +140,9 @@
     </td>
     <td width="70%" valign="top">
       <ul>
-        <ul>Ruby</ul>
+        <strong>Ruby</strong>
         <li>Rubik's Cube Solver Engine</li>
-        <li><a href="https://github.com/utkarsh-naman/utnampython/releases/tag/utnampython3119">Release</a></li>
+        <li><a href="https://github.com/utkarsh-naman/ruby">Go to repo</a></li>
       </ul>
     </td>
   </tr>
@@ -170,9 +157,9 @@
     </td>
     <td width="70%" valign="top">
       <ul>
-        <ul>WhatsSave</ul>
+        <strong>WhatsSave</strong>
         <li>WhatsApp status Saver</li>
-        <li><a href="https://github.com/utkarsh-naman/utnampython/releases/tag/utnampython3119">Release</a></li>
+        <li><a href="https://github.com/utkarsh-naman/Whatssave/releases/tag/android">Release</a></li>
       </ul>
     </td>
   </tr>
@@ -212,30 +199,38 @@
       <img alt="Matex" src="https://github.com/user-attachments/assets/a4a49e1e-bcc0-4450-84d8-e04972f9f257" width="100%">
     </td>
     <td width="20%" align="center">
+      <img alt="SIMple" src="https://github.com/user-attachments/assets/18dfc0be-0e46-42b5-950b-56ac2a10ae17" width="100%">
+    </td>
+    <td width="20%" align="center">
       <img alt="TNMart" src="https://github.com/user-attachments/assets/aa0efa38-090d-4274-9ecc-8cd2d80662ed" width="100%">
     </td>
   </tr>
+  
+
 
   <tr>
     <td width="20%" align="center" >
-      <a href="YOUR_DOWNLOAD_LINK" style="color: white; text-decoration: none; font-weight: bold;">
+      <a href="https://drive.google.com/file/d/1-boQQg4starRXbKpHfnp1ps0G3RrefaC/view?usp=sharing" style="color: white; text-decoration: none; font-weight: bold;">
         Download DirecText
       </a>
     </td>
     <td width="20%" align="center">
-        <a href="YOUR_DOWNLOAD_LINK" style="color: white; text-decoration: none; font-weight: bold;">
+        <a href="https://github.com/utkarsh-naman/Whatssave/releases/tag/android" style="color: white; text-decoration: none; font-weight: bold;">
         Download Whatssave
       </a>
     </td>
     <td width="20%" align="center">
-        <a href="YOUR_DOWNLOAD_LINK" style="color: white; text-decoration: none; font-weight: bold;">
+        <a href="https://drive.google.com/file/d/1-45BAw-xkTlc6wKDhyq7iL5syhOUGBMg/view?usp=sharing" style="color: white; text-decoration: none; font-weight: bold;">
         Download Matex
       </a>
     </td>
     <td width="20%" align="center">
-      <a href="YOUR_DOWNLOAD_LINK" style="color: white; text-decoration: none; font-weight: bold;">
-        Project under NDA
+      <a href="https://drive.google.com/file/d/1GTfijd9cOd0FRkjbm-jm4CYDvEUA-8LS/view?usp=sharing" style="color: white; text-decoration: none; font-weight: bold;">
+        Download SIMple
       </a>
+    </td>   
+    <td width="20%" align="center">
+        Project under NDA
     </td>   
   </tr>
 </table>
@@ -252,11 +247,8 @@
     <td width="10%" align="center">
       <img src="https://github.com/user-attachments/assets/3d2848b1-9128-4f16-9e03-3307d1dca7a1" width="100%">
     </td>
-    <td width="80%" valign="top">
-      <ul>
-        <li>I am 3rd year CSE undergrad, from India</li>
-        <li><a href="https://www.linkedin.com/in/utkarsh-naman/">Connect with me on LinkedIN</a></li>
-      </ul>
+    <td width="80%" valign="middle">
+      Connect with me on <a href="https://www.linkedin.com/in/utkarsh-naman/">LinkedIN</a>
     </td>
   </tr>
 
@@ -270,7 +262,7 @@
     <td width="10%" align="center">
       <img src="https://github.com/user-attachments/assets/f3b8a069-d78b-4d2d-978f-8efd41fcdc4b" width="100%">
     </td>
-    <td width="80%" valign="top">
+    <td width="80%" valign="middle">
       <ul>
         <li>Python packages 📦 by me on PyPI: <a href="https://pypi.org/user/UtNam/">UtNam on PyPI</a></li>
         <li><a href="https://pypi.org/project/utnamtte/">utnamtte</a></li>
@@ -289,7 +281,7 @@
     <td width="10%" align="center">
       <img src="https://github.com/user-attachments/assets/220bed53-8e96-4b0e-a738-702e7c53f2e5" width="100%">
     </td>
-    <td width="80%" valign="top">
+    <td width="80%" valign="middle">
       <ul>
         <li>Stackoverflow: <a href="https://pypi.org/user/UtNam/">UtNam on Stackoverflow</a></li>
         <li><a href="https://pypi.org/project/utnamtte/">utnamtte</a></li>
@@ -297,9 +289,6 @@
       </ul>
     </td>
   </tr>
-
-
-
 
 
   
@@ -310,10 +299,8 @@
     <td width="10%" align="center">
       <img src="https://github.com/user-attachments/assets/9c71f6d6-f713-44c7-a130-7e1e266dfb9a" width="100%">
     </td>
-    <td width="80%" valign="top">
-      <ul>
-        <li><a href="https://www.linkedin.com/in/utkarsh-naman/">Follow me on Instagram</a></li>
-      </ul>
+    <td width="80%" valign="middle">
+      <a href="https://www.instagram.com/utcurse.blink/">Follow me on Instagram</a>
     </td>
   </tr>
 
@@ -326,10 +313,8 @@
     <td width="10%" align="center">
       <img src="https://github.com/user-attachments/assets/c378eff5-6ddf-441a-8556-b315a3bcfcee" width="100%">
     </td>
-    <td width="80%" valign="top">
-      <ul>
-        <li>Me on <a href="YouTube">YouTube</a></li>
-      </ul>
+    <td width="80%" valign="middle">
+      Me on <a href="https://www.youtube.com/@trulyutnam">YouTube</a>
     </td>
   </tr>
 
@@ -341,10 +326,8 @@
     <td width="10%" align="center">
       <img alt="buy-me-a-coffee" src="https://github.com/user-attachments/assets/e881beb5-0785-4950-847f-550291c890df" width="100%">
     </td>
-    <td width="80%" valign="top">
-      <ul>
-        <li>You can help me by Donating on <a href="YouTube">BuyMeACoffee</a></li>
-      </ul>
+    <td width="80%" valign="middle">
+      You can help me by Donating on <a href="https://buymeacoffee.com/utkarshnaman">BuyMeACoffee</a>
     </td>
   </tr>
 
