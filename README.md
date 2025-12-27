@@ -300,7 +300,7 @@
       <img src="https://github.com/user-attachments/assets/9c71f6d6-f713-44c7-a130-7e1e266dfb9a" width="100%">
     </td>
     <td width="80%" valign="middle">
-      <a href="https://www.instagram.com/utcurse.blink/">Follow me on Instagram</a>
+      Follow me on <a href="https://www.instagram.com/utcurse.blink/">Instagram</a>
     </td>
   </tr>
 
