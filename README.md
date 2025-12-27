@@ -1,16 +1,98 @@
-# info
->I am **Utkarsh Naman**, **21**  , learning coding and stuff.</br>
 
-#  About Me:
+
+
+<img width="100%"  alt="banner-image" src="https://github.com/user-attachments/assets/288863e2-9363-4027-910f-3d72f5f024f0" />
+
+>I am **Utkarsh Naman**, **21**  , Computer Science student building stuff.</br>
+<img width="100%"  alt="tech_stack_logo" src="https://github.com/user-attachments/assets/b7ebb027-69a8-4886-9f96-168a3b47d23d" />
+
+
+# Work Experience
+<table>
+  <tr>
+    <td width="10%" align="center">
+      <img src="https://github.com/user-attachments/assets/b0969f73-53d7-4bb8-9d15-b53ea8cd0477" width="100%">
+    </td>
+    <td width="90%" valign="top">
+      <ul>
+        <li>Worked at Tata Communications as App Development Intern</li>
+        <li>June 2025 - Sept 2025</li>
+        <li>Developed Android application for proximity based alerts and navigation improving customer experience</li>
+      </ul>
+    </td>
+  </tr>
+ <tr>
+    <td width="10%" align="center">
+      <img src="https://github.com/user-attachments/assets/d68c9bde-a258-4f4f-8637-432a9911b04f" width="100%">
+    </td>
+    <td width="90%" valign="top">
+      <ul>
+        <li>Worked at Tata Communications as App Development Intern</li>
+        <li>June 2025 - Sept 2025</li>
+        <li>Developed Android application for proximity based alerts and navigation improving customer experience</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+# My Digital Footprints
+<table>
+  <tr>
+    <td width="10%" align="center">
+      <img src="https://github.com/user-attachments/assets/299083b8-0964-49f2-b4f7-9cf8428be321" width="100%">
+    </td>
+    <td width="10%" align="center">
+      <img src="https://github.com/user-attachments/assets/3d2848b1-9128-4f16-9e03-3307d1dca7a1" width="100%">
+    </td>
+    <td width="80%" valign="top">
+      <ul>
+        <li>I am 3rd year CSE undergrad, from India</li>
+        <li><a href="https://www.linkedin.com/in/utkarsh-naman/">Connect with me on LinkedIN</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" align="center">
+      <img src="https://github.com/user-attachments/assets/8505639e-43af-464e-a908-1348a02f3302" width="100%">
+      <!-- <img src="https://github.com/user-attachments/assets/cdf01b5d-9421-480e-80f6-f683cf5a84a8" width="100%"> -->
+    </td>
+    <td width="10%" align="center">
+      <img src="https://github.com/user-attachments/assets/f3b8a069-d78b-4d2d-978f-8efd41fcdc4b" width="100%">
+    </td>
+    <td width="80%" valign="top">
+      <ul>
+        <li>Python packages 📦 by me on PyPI: <a href="https://pypi.org/user/UtNam/">UtNam on PyPI</a></li>
+        <li><a href="https://pypi.org/project/utnamtte/">utnamtte</a></li>
+        <li><a href="https://pypi.org/project/utnamgeo/">utnamgeo</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" align="center">
+      <img src="https://github.com/user-attachments/assets/6e39bd5d-4d0c-4bb7-8073-f6b810f9a24c" width="100%">
+    </td>
+    <td width="10%" align="center">
+      <img src="https://github.com/user-attachments/assets/9c71f6d6-f713-44c7-a130-7e1e266dfb9a" width="100%">
+    </td>
+    <td width="80%" valign="top">
+      <ul>
+        <li><a href="https://www.linkedin.com/in/utkarsh-naman/">Follow me on Instagram</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+
+
 UtNam (on PyPI).<br>I am currently working on building libraries and packages for java and python<br>I'm also into android app development and built 7+ apps<br><br>Problem solving has my keen interest.
 
 | Releases     | Link          |
 |------------|----------------|
-| utnampython | [Click here](https://example.com) |
+| utnampython | [Click here](https://www.linkedin.com/in/utkarsh-naman/) |
 
-#  📦 Python Packages by me
-[![utnamtte](https://img.shields.io/badge/utnamtte-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://pypi.org/project/utnamtte/)
-[![utnamgeo](https://img.shields.io/badge/utnamgeo-86DC3D?style=for-the-badge&logo=python&logoColor=26580f)](https://pypi.org/project/utnamgeo/)
+
 
 
 
