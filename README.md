@@ -282,11 +282,7 @@
       <img src="https://github.com/user-attachments/assets/220bed53-8e96-4b0e-a738-702e7c53f2e5" width="100%">
     </td>
     <td width="80%" valign="middle">
-      <ul>
-        <li>Stackoverflow: <a href="https://pypi.org/user/UtNam/">UtNam on Stackoverflow</a></li>
-        <li><a href="https://pypi.org/project/utnamtte/">utnamtte</a></li>
-        <li><a href="https://pypi.org/project/utnamgeo/">utnamgeo</a></li>
-      </ul>
+      As utkarsh.naman on <a href="https://math.stackexchange.com/users/1024939/utkarsh-naman">Stackoverflow</a>
     </td>
   </tr>
 
