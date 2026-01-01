@@ -56,6 +56,7 @@
         <strong>Utnampython</strong>
         <li>Custom python variant with several algorithm along with text-expression-to-code conversion</li>
         <li><a href="https://github.com/utkarsh-naman/utnampython/releases/tag/utnampython3119">Release</a></li>
+        <li><a href="https://github.com/utkarsh-naman/utnampython">Go to repo</a></li>
       </ul>
     </td>
   </tr>
@@ -109,6 +110,7 @@
         <strong>utnamtte</strong>
         <li>Text based math expression to python code convertor</li>
         <li><a href="https://pypi.org/project/utnamtte/">Release</a></li>
+        <li><a href="https://github.com/utkarsh-naman/utnamtte">Go to repo</a></li>
       </ul>
     </td>
   </tr>
@@ -160,6 +162,7 @@
         <strong>WhatsSave</strong>
         <li>WhatsApp status Saver</li>
         <li><a href="https://github.com/utkarsh-naman/Whatssave/releases/tag/android">Release</a></li>
+        <li><a href="https://github.com/utkarsh-naman/Whatssave">Go to repo</a></li>
       </ul>
     </td>
   </tr>
