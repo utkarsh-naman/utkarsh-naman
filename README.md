@@ -72,7 +72,7 @@
       <ul>
         <strong>Unc</strong>
         <li>Chopsticks Game Engine</li>
-        <li><a href="https://github.com/utkarsh-naman/cs_wasm">Go to repo</a></li>
+        <li><a href="https://github.com/utkarsh-naman/unc">Go to repo</a></li>
       </ul>
     </td>
   </tr>
