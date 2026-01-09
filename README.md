@@ -74,6 +74,7 @@
         <strong>Unc</strong>
         <li>Chopsticks Game Engine</li>
         <li><a href="https://github.com/utkarsh-naman/unc">Go to repo</a></li>
+        <li><a href="http://utkarshnaman.me/cs_go/">Deployed</a></li>
       </ul>
     </td>
   </tr>
