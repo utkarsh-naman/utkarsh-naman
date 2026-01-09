@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td width="10%" align="center">
-      <img src="https://github.com/user-attachments/assets/b0969f73-53d7-4bb8-9d15-b53ea8cd0477" width="100%">
+      <img src="https://github.com/user-attachments/assets/91335571-ddbb-4a35-97f1-1f378287fb78" width="100%">
     </td>
     <td width="90%" valign="top">
       <ul>
