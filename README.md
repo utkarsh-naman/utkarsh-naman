@@ -47,6 +47,25 @@
 <table>
   <tr>
     <td width="15%" align="center">
+      <img width="100%" alt="Tech Working GIF by Pudgy Penguins" src="https://github.com/user-attachments/assets/05359cf2-2589-4195-92bf-a85dcd405ba9" />
+    </td>
+    <td width="15%" align="center">
+      <img width="100%" alt="rust-logo-white-outline 1" src="https://github.com/user-attachments/assets/b66ea75b-de79-4edb-b3f6-039f78a64d2e" />
+    </td>
+    <td width="70%" valign="top">
+      <ul>
+        <strong>Chex</strong>
+        <li>CLI tool for competitive programming</li>
+        <li><a href="https://github.com/utkarsh-naman/chex">Go to repo</a></li>
+        <li><a href="https://github.com/utkarsh-naman/chex/releases/tag/Executable">Executable</a></li>
+      </ul>
+    </td>
+  </tr>
+
+
+  
+  <tr>
+    <td width="15%" align="center">
       <img src="https://github.com/user-attachments/assets/4e720ca0-95bc-439e-9116-bd768586a6ab" width="100%">
     </td>
     <td width="15%" align="center">
@@ -68,7 +87,7 @@
       <img src="https://github.com/user-attachments/assets/9e976c02-4487-4ca5-8cc4-4a7f2da6ac31" width="100%">
     </td>
     <td width="15%" align="center">
-      <img src="https://github.com/user-attachments/assets/97eb45f9-7e98-419e-a041-34fa25f2a5c2" width="100%">
+     <img width="100%" alt="rust-logo-white-outline 1" src="https://github.com/user-attachments/assets/b66ea75b-de79-4edb-b3f6-039f78a64d2e" />
     </td>
     <td width="70%" valign="top">
       <ul>
