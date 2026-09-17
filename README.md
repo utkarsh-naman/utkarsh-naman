@@ -47,6 +47,26 @@
 <table>
   <tr>
     <td width="15%" align="center">
+      <img src="https://github.com/user-attachments/assets/ada991e4-2995-4b20-977a-9e10013ab28f" width="100%">
+    </td>
+    <td width="15%" align="center">
+      <img src="https://github.com/user-attachments/assets/3caf8b93-4da3-4890-ae96-ad76a59cf4b3" width="100%">
+    </td>
+    <td width="70%" valign="top">
+      <ul>
+        <strong>AppMan</strong>
+        <li>Android adb based App Management app</li>
+        <li><a href="https://github.com/utkarsh-naman/AppMan/releases/tag/Release">Release</a></li>
+        <li><a href="https://github.com/utkarsh-naman/AppMan">Go to repo</a></li>
+      </ul>
+    </td>
+  </tr>
+
+  
+
+  
+  <tr>
+    <td width="15%" align="center">
       <img width="100%" alt="Tech Working GIF by Pudgy Penguins" src="https://github.com/user-attachments/assets/05359cf2-2589-4195-92bf-a85dcd405ba9" />
     </td>
     <td width="15%" align="center">
