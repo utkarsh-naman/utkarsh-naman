@@ -233,19 +233,22 @@
 
 <table>
   <tr>
-    <td width="20%" align="center">
+    <td width="16.66%" align="center">
+      <img alt="AppMan" src="https://github.com/user-attachments/assets/de5c5e8c-db97-45e8-af7a-a2f397d13c7d" width="100%">
+    </td>
+    <td width="16.67%" align="center">
       <img alt="directtext" src="https://github.com/user-attachments/assets/85203d49-fb03-4167-b5fd-1748e2b6d92a" width="100%">
     </td>
-    <td width="20%" align="center">
+    <td width="16.66%" align="center">
       <img alt="whatssave" src="https://github.com/user-attachments/assets/3fc73080-b014-4aa4-ab5f-49850da98115" width="100%">
     </td>
-    <td width="20%" align="center">
+    <td width="16.67%" align="center">
       <img alt="Matex" src="https://github.com/user-attachments/assets/a4a49e1e-bcc0-4450-84d8-e04972f9f257" width="100%">
     </td>
-    <td width="20%" align="center">
+    <td width="16.66%" align="center">
       <img alt="SIMple" src="https://github.com/user-attachments/assets/18dfc0be-0e46-42b5-950b-56ac2a10ae17" width="100%">
     </td>
-    <td width="20%" align="center">
+    <td width="16.67%" align="center">
       <img alt="TNMart" src="https://github.com/user-attachments/assets/aa0efa38-090d-4274-9ecc-8cd2d80662ed" width="100%">
     </td>
   </tr>
@@ -253,27 +256,32 @@
 
 
   <tr>
-    <td width="20%" align="center" >
+    <td width="16.66%" align="center" >
+      <a href="https://github.com/utkarsh-naman/AppMan/releases/download/Release/AppMan_release.apk" style="color: white; text-decoration: none; font-weight: bold;">
+        Download AppMan
+      </a>
+    </td>
+    <td width="16.67%" align="center" >
       <a href="https://drive.google.com/file/d/1-boQQg4starRXbKpHfnp1ps0G3RrefaC/view?usp=sharing" style="color: white; text-decoration: none; font-weight: bold;">
         Download DirecText
       </a>
     </td>
-    <td width="20%" align="center">
+    <td width="16.66%" align="center">
         <a href="https://github.com/utkarsh-naman/Whatssave/releases/tag/android" style="color: white; text-decoration: none; font-weight: bold;">
         Download Whatssave
       </a>
     </td>
-    <td width="20%" align="center">
+    <td width="16.67%" align="center">
         <a href="https://drive.google.com/file/d/1-45BAw-xkTlc6wKDhyq7iL5syhOUGBMg/view?usp=sharing" style="color: white; text-decoration: none; font-weight: bold;">
         Download Matex
       </a>
     </td>
-    <td width="20%" align="center">
+    <td width="16.66%" align="center">
       <a href="https://drive.google.com/file/d/1GTfijd9cOd0FRkjbm-jm4CYDvEUA-8LS/view?usp=sharing" style="color: white; text-decoration: none; font-weight: bold;">
         Download SIMple
       </a>
     </td>   
-    <td width="20%" align="center">
+    <td width="16.67%" align="center">
         Project under NDA
     </td>   
   </tr>
