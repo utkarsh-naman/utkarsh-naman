@@ -93,7 +93,7 @@
     </td>
     <td width="70%" valign="top">
       <ul>
-        <strong>Chex</strong>
+        <strong>Less-Type</strong>
         <li>Shortcut extension for text replacement</li>
         <li><a href="https://github.com/utkarsh-naman/less-type">Go to repo</a></li>
         <li><a href="https://github.com/utkarsh-naman/less-type/releases/#release-Latest">Release</a></li>
