@@ -89,7 +89,8 @@
     <td width="15%" align="center">
       <!-- <img width="100%" alt="Tech Coding GIF by Pudgy Penguins" src="https://github.com/user-attachments/assets/0904c513-20bc-432d-b65f-fe74f9d59d5c9" /> -->
       <!-- <img width="1080" height="1080" alt="lesstype (2)" src="https://github.com/user-attachments/assets/6c6b4419-1b37-4c8a-9222-1d37a6f7288a" /> -->
-      <img width=100% alt="lesstype (3)" src="https://github.com/user-attachments/assets/163494c7-cf7b-42cb-ad34-9d684569104a" />
+      <!-- <img width=100% alt="lesstype (3)" src="https://github.com/user-attachments/assets/163494c7-cf7b-42cb-ad34-9d684569104a" /> -->
+      <img width=100% alt="lesstype (3)" src="https://github.com/user-attachments/assets/d715a31e-5b15-4de4-ac60-673afedad990" />
     </td>
     <td width="15%" align="center">
       <!-- <img width="100%" alt="rust-logo-white-outline 1" src="https://github.com/user-attachments/assets/0206ea34-7a03-40c7-82d1-e9baf5b00478" /> -->
