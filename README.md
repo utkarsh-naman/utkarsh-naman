@@ -41,7 +41,7 @@
 
 # Beloved Projects: 
 <!-- <img width="100%"  alt="tech_stack_logo" src="https://github.com/user-attachments/assets/b7ebb027-69a8-4886-9f96-168a3b47d23d" /> -->
-<img width="8713" height="2057" alt="tech-stack" src="https://github.com/user-attachments/assets/066220db-d00c-482c-af87-76bd261f5468" /><svg width="8713" height="2057" viewBox="0 0 8713 2057" fill="none" xmlns="http://www.w3.org/2000/svg">
+<img width=100% alt="tech-stack" src="https://github.com/user-attachments/assets/066220db-d00c-482c-af87-76bd261f5468" /><svg width="8713" height="2057" viewBox="0 0 8713 2057" fill="none" xmlns="http://www.w3.org/2000/svg">
 
 
 <table>
@@ -51,7 +51,7 @@
     </td>
     <td width="15%" align="center">
       <!-- <img src="https://github.com/user-attachments/assets/3caf8b93-4da3-4890-ae96-ad76a59cf4b3" width="100%"> -->
-      <img width="386" height="386" alt="kotlin" src="https://github.com/user-attachments/assets/a3ef73fc-d9a6-435c-88a2-7065d0a1a105" />
+      <img width=100% alt="kotlin" src="https://github.com/user-attachments/assets/a3ef73fc-d9a6-435c-88a2-7065d0a1a105" />
     </td>
     <td width="70%" valign="top">
       <ul>
@@ -72,7 +72,7 @@
     </td>
     <td width="15%" align="center">
       <!-- <img width="100%" alt="rust-logo-white-outline 1" src="https://github.com/user-attachments/assets/b66ea75b-de79-4edb-b3f6-039f78a64d2e" /> -->
-      <img width="109" height="109" alt="rust-logo-white-outline" src="https://github.com/user-attachments/assets/6ba3c6c1-a008-4775-9d0e-8d99aae4de5b" />
+      <img width=100% alt="rust-logo-white-outline" src="https://github.com/user-attachments/assets/6ba3c6c1-a008-4775-9d0e-8d99aae4de5b" />
     </td>
     <td width="70%" valign="top">
       <ul>
@@ -88,11 +88,12 @@
   <tr>
     <td width="15%" align="center">
       <!-- <img width="100%" alt="Tech Coding GIF by Pudgy Penguins" src="https://github.com/user-attachments/assets/0904c513-20bc-432d-b65f-fe74f9d59d5c9" /> -->
-      <img width="1080" height="1080" alt="lesstype (2)" src="https://github.com/user-attachments/assets/6c6b4419-1b37-4c8a-9222-1d37a6f7288a" />
+      <!-- <img width="1080" height="1080" alt="lesstype (2)" src="https://github.com/user-attachments/assets/6c6b4419-1b37-4c8a-9222-1d37a6f7288a" /> -->
+      <img width=100% alt="lesstype (3)" src="https://github.com/user-attachments/assets/163494c7-cf7b-42cb-ad34-9d684569104a" />
     </td>
     <td width="15%" align="center">
       <!-- <img width="100%" alt="rust-logo-white-outline 1" src="https://github.com/user-attachments/assets/0206ea34-7a03-40c7-82d1-e9baf5b00478" /> -->
-      <img width="800" height="800" alt="javascript-svgrepo-com" src="https://github.com/user-attachments/assets/c8f063e1-db5c-41fc-9f48-432b007edc64" />
+      <img width=100% alt="javascript-svgrepo-com" src="https://github.com/user-attachments/assets/c8f063e1-db5c-41fc-9f48-432b007edc64" />
     </td>
     <td width="70%" valign="top">
       <ul>
@@ -130,7 +131,7 @@
     </td>
     <td width="15%" align="center">
      <!-- <img width="100%" alt="rust-logo-white-outline 1" src="https://github.com/user-attachments/assets/b66ea75b-de79-4edb-b3f6-039f78a64d2e" /> -->
-      <img width="306" height="344" alt="ISO_C++_Logo" src="https://github.com/user-attachments/assets/fcdfc822-7db4-4cb0-b615-8c8769bdf86d" />
+      <img width=100% alt="ISO_C++_Logo" src="https://github.com/user-attachments/assets/fcdfc822-7db4-4cb0-b615-8c8769bdf86d" />
     </td>
     <td width="70%" valign="top">
       <ul>
@@ -150,7 +151,7 @@
     </td>
     <td width="15%" align="center">
       <!-- <img src="https://github.com/user-attachments/assets/ce1f803b-636e-4bb0-ba56-1a20fd623b59" width="100%"> -->
-      <img width="109" height="109" alt="rust-logo-white-outline" src="https://github.com/user-attachments/assets/6ba3c6c1-a008-4775-9d0e-8d99aae4de5b" />
+      <img width=100% alt="rust-logo-white-outline" src="https://github.com/user-attachments/assets/6ba3c6c1-a008-4775-9d0e-8d99aae4de5b" />
     </td>
     <td width="70%" valign="top">
       <ul>
