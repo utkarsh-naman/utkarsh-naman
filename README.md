@@ -1,5 +1,3 @@
-<img width="386" height="386" alt="kotlin" src="https://github.com/user-attachments/assets/1d53351b-3a56-4663-a03d-3df204cbd8ec" /><img width="386" height="386" alt="kotlin" src="https://github.com/user-attachments/assets/91ab9d97-78c7-4d63-8b65-c817c0f0b0ff" />
-
 <img width="100%"  alt="banner" src="https://github.com/user-attachments/assets/9bb481d1-be1f-4d90-9979-6073e1a356a0" />
 
 
