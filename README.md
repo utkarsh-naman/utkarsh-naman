@@ -1,4 +1,4 @@
-
+<img width="386" height="386" alt="kotlin" src="https://github.com/user-attachments/assets/1d53351b-3a56-4663-a03d-3df204cbd8ec" /><img width="386" height="386" alt="kotlin" src="https://github.com/user-attachments/assets/91ab9d97-78c7-4d63-8b65-c817c0f0b0ff" />
 
 <img width="100%"  alt="banner" src="https://github.com/user-attachments/assets/9bb481d1-be1f-4d90-9979-6073e1a356a0" />
 
@@ -52,7 +52,8 @@
       <img src="https://github.com/user-attachments/assets/ada991e4-2995-4b20-977a-9e10013ab28f" width="100%">
     </td>
     <td width="15%" align="center">
-      <img src="https://github.com/user-attachments/assets/3caf8b93-4da3-4890-ae96-ad76a59cf4b3" width="100%">
+      <!-- <img src="https://github.com/user-attachments/assets/3caf8b93-4da3-4890-ae96-ad76a59cf4b3" width="100%"> -->
+      <img width="386" height="386" alt="kotlin" src="https://github.com/user-attachments/assets/a3ef73fc-d9a6-435c-88a2-7065d0a1a105" />
     </td>
     <td width="70%" valign="top">
       <ul>
@@ -92,7 +93,8 @@
       <img width="1080" height="1080" alt="lesstype (2)" src="https://github.com/user-attachments/assets/6c6b4419-1b37-4c8a-9222-1d37a6f7288a" />
     </td>
     <td width="15%" align="center">
-      <img width="100%" alt="rust-logo-white-outline 1" src="https://github.com/user-attachments/assets/0206ea34-7a03-40c7-82d1-e9baf5b00478" />
+      <!-- <img width="100%" alt="rust-logo-white-outline 1" src="https://github.com/user-attachments/assets/0206ea34-7a03-40c7-82d1-e9baf5b00478" /> -->
+      <img width="800" height="800" alt="javascript-svgrepo-com" src="https://github.com/user-attachments/assets/c8f063e1-db5c-41fc-9f48-432b007edc64" />
     </td>
     <td width="70%" valign="top">
       <ul>
