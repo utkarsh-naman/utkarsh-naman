@@ -42,7 +42,8 @@
 
 
 # Beloved Projects: 
-<img width="100%"  alt="tech_stack_logo" src="https://github.com/user-attachments/assets/b7ebb027-69a8-4886-9f96-168a3b47d23d" />
+<!-- <img width="100%"  alt="tech_stack_logo" src="https://github.com/user-attachments/assets/b7ebb027-69a8-4886-9f96-168a3b47d23d" /> -->
+<img width="8713" height="2057" alt="tech-stack" src="https://github.com/user-attachments/assets/066220db-d00c-482c-af87-76bd261f5468" /><svg width="8713" height="2057" viewBox="0 0 8713 2057" fill="none" xmlns="http://www.w3.org/2000/svg">
 
 
 <table>
@@ -71,7 +72,8 @@
       <img width="100%" alt="Tech Working GIF by Pudgy Penguins" src="https://github.com/user-attachments/assets/05359cf2-2589-4195-92bf-a85dcd405ba9" />
     </td>
     <td width="15%" align="center">
-      <img width="100%" alt="rust-logo-white-outline 1" src="https://github.com/user-attachments/assets/b66ea75b-de79-4edb-b3f6-039f78a64d2e" />
+      <!-- <img width="100%" alt="rust-logo-white-outline 1" src="https://github.com/user-attachments/assets/b66ea75b-de79-4edb-b3f6-039f78a64d2e" /> -->
+      <img width="109" height="109" alt="rust-logo-white-outline" src="https://github.com/user-attachments/assets/6ba3c6c1-a008-4775-9d0e-8d99aae4de5b" />
     </td>
     <td width="70%" valign="top">
       <ul>
@@ -86,7 +88,8 @@
 
   <tr>
     <td width="15%" align="center">
-      <img width="100%" alt="Tech Coding GIF by Pudgy Penguins" src="https://github.com/user-attachments/assets/0904c513-20bc-432d-b65f-fe74f9d59d5c9" />
+      <!-- <img width="100%" alt="Tech Coding GIF by Pudgy Penguins" src="https://github.com/user-attachments/assets/0904c513-20bc-432d-b65f-fe74f9d59d5c9" /> -->
+      <img width="1080" height="1080" alt="lesstype (2)" src="https://github.com/user-attachments/assets/6c6b4419-1b37-4c8a-9222-1d37a6f7288a" />
     </td>
     <td width="15%" align="center">
       <img width="100%" alt="rust-logo-white-outline 1" src="https://github.com/user-attachments/assets/0206ea34-7a03-40c7-82d1-e9baf5b00478" />
@@ -126,7 +129,8 @@
       <img src="https://github.com/user-attachments/assets/9e976c02-4487-4ca5-8cc4-4a7f2da6ac31" width="100%">
     </td>
     <td width="15%" align="center">
-     <img width="100%" alt="rust-logo-white-outline 1" src="https://github.com/user-attachments/assets/b66ea75b-de79-4edb-b3f6-039f78a64d2e" />
+     <!-- <img width="100%" alt="rust-logo-white-outline 1" src="https://github.com/user-attachments/assets/b66ea75b-de79-4edb-b3f6-039f78a64d2e" /> -->
+      <img width="306" height="344" alt="ISO_C++_Logo" src="https://github.com/user-attachments/assets/fcdfc822-7db4-4cb0-b615-8c8769bdf86d" />
     </td>
     <td width="70%" valign="top">
       <ul>
@@ -145,7 +149,8 @@
       <img src="https://github.com/user-attachments/assets/33cd6fb8-950d-4750-9942-92624a967e67" width="100%">
     </td>
     <td width="15%" align="center">
-      <img src="https://github.com/user-attachments/assets/ce1f803b-636e-4bb0-ba56-1a20fd623b59" width="100%">
+      <!-- <img src="https://github.com/user-attachments/assets/ce1f803b-636e-4bb0-ba56-1a20fd623b59" width="100%"> -->
+      <img width="109" height="109" alt="rust-logo-white-outline" src="https://github.com/user-attachments/assets/6ba3c6c1-a008-4775-9d0e-8d99aae4de5b" />
     </td>
     <td width="70%" valign="top">
       <ul>
@@ -246,20 +251,20 @@
 
 
 
-
-
 # Applications by me
 
 <table>
   <tr>
     <td width="25%" align="center">
-      <img width="100%" alt="AppMan" src="https://github.com/user-attachments/assets/de5c5e8c-db97-45e8-af7a-a2f397d13c7d">
+      <!-- <img width="100%" alt="AppMan" src="https://github.com/user-attachments/assets/de5c5e8c-db97-45e8-af7a-a2f397d13c7d"> -->
+      <img width="100%" alt="android-circular" src="https://github.com/user-attachments/assets/8261b07b-f03f-4643-9fda-ac62e2ef54f7" />
     </td>
     <td  width="25%" align="center">
       <img width="100%" alt="chex-logo" src="https://github.com/user-attachments/assets/6b9dfc5b-af09-45a0-ad33-a54430352ce3"/>
     </td>
     <td  width="25%" align="center">
-      <img width="100%" alt="Less-Type-logo-128" src="https://github.com/user-attachments/assets/5d20ccbb-ef6b-487a-af9b-e391eb992336" />
+      <!-- <img width="100%" alt="Less-Type-logo-128" src="https://github.com/user-attachments/assets/5d20ccbb-ef6b-487a-af9b-e391eb992336" /> -->
+      <img width="100%" alt="Less-Test-logo" src="https://github.com/user-attachments/assets/e7947900-9865-4869-a283-316cda77a853" />
     </td>
     <td  width="25%" align="center">
       <img width="100%" alt="whatssave" src="https://github.com/user-attachments/assets/3fc73080-b014-4aa4-ab5f-49850da98115" />
@@ -426,6 +431,18 @@
 
 # [Patreon](https://www.patreon.com/c/utnam)
 <img width="100%"  alt="patreon banner perfect-01" src="https://github.com/user-attachments/assets/02ad0709-2cc3-4217-9337-a77386e6904b" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
